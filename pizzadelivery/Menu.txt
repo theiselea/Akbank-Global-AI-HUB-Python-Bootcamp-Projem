@@ -1,0 +1,742 @@
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
+*Lütfen Bir Pizza Tabaný Seçin:
+1.Klasik
+2.Margarita
+3.Türk Pizza
+4.Sade Pizza
+5.4 Peynirli Pizza
+*Seçeceðiniz ürünler:
+1.Zeytin 
+2.Mantar
+3.Keçi Peyniri
+4.Füme Et
+5.Soðan
+6.Mýsýr
+*Teþekkür ederiz!
